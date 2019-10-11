@@ -1,2 +1,2 @@
-# Unknown repo
-I dont know what this is :)
+# Death counters
+You can see how long ago people died lol
